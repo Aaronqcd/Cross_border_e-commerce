@@ -20,4 +20,14 @@ PC web端使用vue+elementui。
 
 4.qq:237-336-2212
 
+系统截图：
+![](https://gitee.com/Aaronqcd/Cross_border_e-commerce/raw/master/doc/1.png)
+![](https://gitee.com/Aaronqcd/Cross_border_e-commerce/raw/master/doc/2.png)
+![](https://gitee.com/Aaronqcd/Cross_border_e-commerce/raw/master/doc/3.png)
+![](https://gitee.com/Aaronqcd/Cross_border_e-commerce/raw/master/doc/4.png)
+![](https://gitee.com/Aaronqcd/Cross_border_e-commerce/raw/master/doc/5.png)
+![](https://gitee.com/Aaronqcd/Cross_border_e-commerce/raw/master/doc/6.png)
+![](https://gitee.com/Aaronqcd/Cross_border_e-commerce/raw/master/doc/7.png)
+![](https://gitee.com/Aaronqcd/Cross_border_e-commerce/raw/master/doc/8.png)
+
 
