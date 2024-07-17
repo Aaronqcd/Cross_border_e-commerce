@@ -18,7 +18,7 @@ PC web端使用vue+elementui。
 
 3.提供内嵌技术，内嵌、打包、签名、分发全流程负责。
 
-4.qq:237-336-2212
+4.qq：237-336-2212
 
 # 系统截图：
 ![](https://raw.githubusercontent.com/Aaronqcd/Cross_border_e-commerce/master/doc/1.png)
